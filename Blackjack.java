@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// This was back when I didn't know what a method was lol
 public class Blackjack {
         public static void main(String[] args){
             int gameNum = 1;//what game #
